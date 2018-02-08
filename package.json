@@ -1,6 +1,6 @@
 {
-  "name": "fast-source-map",
-  "version": "0.1.0",
+  "name": "@elsassph/fast-source-map",
+  "version": "0.3.0",
   "description": "fast source mapping decode/encode",
   "main": "dist/index.js",
   "browser": "dist/browser.js",
